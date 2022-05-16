@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexsmothers
 - 👀 I’m interested in outdoors
-- 🌱 I’m currently learning in Oden Project and WGU for computer Science degree
+- 🌱 I’m currently learning in Odin Project and WGU for computer Science degree
 - 💞️ I’m looking to collaborate on any project that will help me learn
 - 📫 How to reach me email
 
